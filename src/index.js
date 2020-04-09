@@ -263,7 +263,7 @@ class PDFViewer extends React.Component {
                                     canvasCss
                                         ? {}
                                         : {
-                                              height: '800px',
+                                              height: '600px',
                                               overflow: 'auto',
                                           }
                                 }
